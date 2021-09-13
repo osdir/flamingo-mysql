@@ -7,7 +7,7 @@ import (
 	"github.com/golang-migrate/migrate/v4"
 	"github.com/golang-migrate/migrate/v4/database/mysql"
 
-	"github.com/tessig/flamingo-mysql/db"
+	"github.com/osdir/flamingo-mysql/db"
 )
 
 type (

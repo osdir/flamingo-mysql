@@ -7,7 +7,7 @@ import (
 
 	"flamingo.me/flamingo/v3/framework/flamingo"
 
-	"github.com/tessig/flamingo-mysql/db"
+	"github.com/osdir/flamingo-mysql/db"
 )
 
 type (

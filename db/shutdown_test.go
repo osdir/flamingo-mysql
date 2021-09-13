@@ -8,8 +8,8 @@ import (
 	"github.com/DATA-DOG/go-sqlmock"
 	"github.com/jmoiron/sqlx"
 
-	"github.com/tessig/flamingo-mysql/db"
-	"github.com/tessig/flamingo-mysql/db/mocks"
+	"github.com/osdir/flamingo-mysql/db"
+	"github.com/osdir/flamingo-mysql/db/mocks"
 )
 
 func TestShutdownSubscriber_Notify(t *testing.T) {

@@ -5,7 +5,7 @@ import (
 
 	"flamingo.me/flamingo/v3/framework/config"
 
-	"github.com/tessig/flamingo-mysql/db"
+	"github.com/osdir/flamingo-mysql/db"
 )
 
 func TestModule_Configure(t *testing.T) {

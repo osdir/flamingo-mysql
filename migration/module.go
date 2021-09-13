@@ -10,8 +10,8 @@ import (
 	// we need the file source only when the migrator module is included
 	_ "github.com/golang-migrate/migrate/v4/source/file"
 
-	"github.com/tessig/flamingo-mysql/db"
-	"github.com/tessig/flamingo-mysql/migration/application"
+	"github.com/osdir/flamingo-mysql/db"
+	"github.com/osdir/flamingo-mysql/migration/application"
 )
 
 type (
