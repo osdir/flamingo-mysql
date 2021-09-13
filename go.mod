@@ -1,4 +1,4 @@
-module github.com/tessig/flamingo-mysql
+module github.com/osdir/flamingo-mysql
 
 go 1.14
 
